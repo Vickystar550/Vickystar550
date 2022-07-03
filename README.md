@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vickystar550
-- 👀 I’m interested in Machine Learning, Software Development and Cloud Development
-- 🌱 I’m currently learning Cloud Development at Udacity
+- 👋 Hi, I’m Victor Akanimoh Nice
+- 👀 I’m interested in Machine Learning, Software Development or Engineering, and Cloud Development
+- 🌱 I’m currently learning Cloud Development at Udacity, also a Student of ALX-Software Engineering
 - 💞️ I’m looking to collaborate on AWS, and other computer work deals with Cloud Services
 - 📫 How to reach me: victornice550@gmail.com, 08105662218
 
