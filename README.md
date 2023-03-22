@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Victor Akanimoh Nice
-- 👀 I’m interested in Machine Learning, Software Development or Engineering, and Cloud Development
-- 🌱 I’m currently learning Cloud Development at Udacity, also a Student of ALX-Software Engineering
-- 💞️ I’m looking to collaborate on AWS, and other computer work deals with Cloud Services
-- 📫 How to reach me: victornice550@gmail.com, 08105662218
+- 👋 Hi, I’m Victor Akanimoh Nice, am a Nigerian. Resides in Uyo, Nigeria 
+- 👀 I’m interested in Data Scienc and Machine Learning, 
+- 🌱 I’m currently learning Data Science at DataCamp | Enrolled in 100 days of Python Code on Udemy | Was a Student of ALX-Software Engineering
+- 💞️ I’m looking to competence in Data Science and ML. And to solve problems in this areas of technology 
+- 📫 You can reach out via: Email: victornice550@gmail.com || Phone: +2348105662218 
 
 <!---
 Vickystar550/Vickystar550 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
