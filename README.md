@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Victor Akanimoh Nice, am a Nigerian. Resides in Uyo, Nigeria 
+- 👋 Hi, I’m Victor Akanimoh Nice, am a Nigerian. Resides Nigeria 
 - 👀 I’m interested in Data Scienc and Machine Learning, 
 - 🌱 I’m currently learning Data Science at DataCamp | Enrolled in 100 days of Python Code on Udemy | Was a Student of ALX-Software Engineering
 - 💞️ I’m looking to competence in Data Science and ML. And to solve problems in this areas of technology 
